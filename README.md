@@ -1,8 +1,6 @@
 # Hi there 👋 I'm Carlo Iodice
 
-## I make things on the internet.
-
-I'm a self-employed developer, blogger, YouTuber, and the creator of an online school focused on building awesome apps with Ionic. I'm an Indie Hacker wherever possible and I believe in bootstrapping my projects.
+I'm a guy with a passion for development, especially keen on crafting innovative applications. I thrive on diving into new projects and steering the development process from the initial idea to the final release, maintaining an independent and self-funded approach in my work.
 
 - 🌍  I'm based in Caserta, Italy
 - 📫  You can contact me at [carloiodice42@gmail.com](mailto:carloiodice42@gmail.com)
